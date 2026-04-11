@@ -1,4 +1,6 @@
 # 💫 About Me:
+Repository note: this NLP workspace excludes the skilee-ai folder from version control.
+
 ## 👋 Hi there, I'm Dharmender!<br>**Aspiring Data Scientist**<br>---------<br><br>- 🔭 Completed a data science course from Masai and pursuing PhD (Astronomy) from Central University of Himachal Pradesh 🏛️. <br>- 💼 Current Role: Intern at Indian Institute of Astrophysics 🌌.<br>- 🔭 Currently working on a Supply Chain and Inventory Optimization System 📦.<br>- 🌱 Learning Journey: Deepening my expertise in Machine Learning, Deep Learning, and Agentic AI 🤖.<br>- 👯 Collaboration: Eager to collaborate on innovative Data Science projects 📊.<br>- 🌟 Recent Work: Developed an automated pipeline for detecting Lyman Alpha emission in Damped Lyman Alpha systems 🔭 [Star-Formation-in-DLAs](https://github.com/dharmender12/Star-Formation-in-DLAs).
 
 
